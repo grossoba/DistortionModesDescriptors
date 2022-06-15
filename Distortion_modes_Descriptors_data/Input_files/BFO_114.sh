@@ -1,0 +1,3 @@
+#!/bin/bash -l
+
+## DEFINE THE JOB SCRIPT TO RUN VASP
