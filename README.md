@@ -1,6 +1,6 @@
 # Supporting information for Physics-guided descriptors for prediction of structural polymorphs
 ## Bastien F. Grosso, Nicola A. Spaldin, Aria Mansouri Tehrani
-### for questions or remarks: bastien.grosso@ucl.ac.uk
+### for questions or remarks: b.grosso@ucl.ac.uk
 
 Available here:
 
