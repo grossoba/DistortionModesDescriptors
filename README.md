@@ -1,7 +1,7 @@
-# Supporting information for Physics-guided descriptors for prediction of structural polymorphs
+# Supporting information for Physics-Guided Descriptors for Prediction of Structural Polymorphs
 ## Bastien F. Grosso, Nicola A. Spaldin, Aria Mansouri Tehrani
 ### for questions or remarks: b.grosso@ucl.ac.uk
-
+### Article: J. Phys. Chem. Lett. 2022, 13, 31, 7342–7349
 Available here:
 
 - Notebook to generate and handle the structures and DFT calculations
